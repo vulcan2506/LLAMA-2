@@ -1,0 +1,10 @@
+{'query': 'maligant',
+ 'result': "You don't know\nNot helpful answers:\nI don't know, try this! /
+  Malignant melanomas are more common on areas of   the body exposed to the sun. / The growth pattern makes it difficult to remove the entire tumor, and these tumors recur more often than low-grade tumors. / 
+  It is approximately 3,500 Americans will be diagnosed with malignant melanoma each year.",
+ 'source_documents': [Document(page_content='either basal cell carcinomas, or malignant melanomas,two types of skin cancer. Malignant melanomas, whichdevelop 
+ from skin cells that produce the brown pigmentcalled melanin, are far more common on areas of thebody exposed to the sun.\nApproximately 3,500 Americans will be diagnosed', 
+ metadata={'source': 'data/71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 183}),
+  Document(page_content='Mid-grade and high-grade tumors grow more rapid-\nly than low-grade tumors. Described as “truly malig-nant,” these tumors usually infiltrate healthy tissue.
+   Thegrowth pattern makes it difficult to remove the entiretumor, and these tumors recur more often than low-gradetumors.
+   \nA single brain tumor can contain several different', metadata={'source': 'data/71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf', 'page': 582})]}
